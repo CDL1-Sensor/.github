@@ -14,6 +14,7 @@ Die Challenge wird von folgenden Studenten bearbeitet:
 Name | GitHub
 -- | --
 Lea Bütler | [@redhead02](https://github.com/redhead02)
+Manjavy Kirupa | [@manjavy](https://github.com/manjavy) 
 Si Ben Tran | [@7ben18](https://github.com/7ben18)
 Etienne Roulet  | [@etiiiR](https://github.com/orgs/CDL1-Sensor/people/etiiiR)
 
