@@ -16,7 +16,7 @@ Name | GitHub
 Lea Bütler | [@redhead02](https://github.com/redhead02)
 Manjavy Kirupa | [@manjavy](https://github.com/manjavy) 
 Si Ben Tran | [@7ben18](https://github.com/7ben18)
-Etienne Roulet  | [@etiiiR](https://github.com/orgs/CDL1-Sensor/people/etiiiR)
+Etienne Roulet  | [@etiiiR](https://github.com/etiiiR)
 
 ## Challenge Taskboard
 Hier geht es zum Challenge Taskboard mit allen Tasks und Issues
