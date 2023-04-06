@@ -7,7 +7,7 @@ Inhalt | Datum | Zeit
 -- | -- | --
 Planung und Konzeption | 16. März 2023 | - 
 Implementierung | 16. Juni 2023 | -
-Präsentation & Münliche Prüfung | 29. Juni 2023 | 08:30 - 10:30
+Präsentation & Münliche Prüfung | 29. Juni 2023 | 09:15 - 11:15
 
 ## SensorScientisten | [@Sensor-Challenge/SensorScientist](https://github.com/orgs/CDL1-Sensor/teams/sensorscientist)
 Die Challenge wird von folgenden Studenten bearbeitet:
