@@ -19,7 +19,7 @@ Etienne Roulet  | [@etiiiR](https://github.com/etiiiR) |
 
 ## Challenge Taskboard
 Hier geht es zum Challenge Taskboard mit allen Tasks und Issues.   
-Das Projektmanagment für das wir uns entschieden haben ist ein Kanban Board.
+Das Projektmanagment für das wir uns entschieden haben ist ein Kanban Board.   
 Dieses Taskboard dient allen Teammitglieder als eine Übersicht über die Aufgaben und ist das Herzstück vom Projekt/Challengemanagment.
 [Link zum Taskboard](https://github.com/orgs/CDL1-Sensor/projects/1)
 
